@@ -43,9 +43,9 @@ scope of work document that specifies deliverables and final cost.
 ## Why Me? 
 
 I have a Master's degree in Acupuncture and Oriental
-Medicine. including 450 graduate hours in biomedicine and 5 years of
+Medicine. including 450 graduate hours in biomedicine, and 5 years of
 clinical experience in primary care and public health. Need someone to
-cut through the jib/jab on holistic health who also has two thumbs? 
+cut through the jib/jab on holistic health who also has two thumbs?
 
 /me points thumbs at self
 
