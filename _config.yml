@@ -1,5 +1,5 @@
 title: srmalins
-description: (display (pages))
+description: (setq *is-for-hire-p* t)
 show_downloads: false
 author: Steven Malins
 theme: jekyll-theme-hacker
