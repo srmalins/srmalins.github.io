@@ -11,7 +11,7 @@ The recommended way to get this key is:
 
 `gpg --keyserver hkps://keys.openpgp.org --receive-keys B19CD61961B5B9DA`
 
-It is also available for [download](/steven.malins.asc).
+It is also available for [download](/assets/steven.malins.asc).
 
 ## History
 
