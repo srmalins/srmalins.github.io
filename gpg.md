@@ -5,30 +5,21 @@ title: GPG
 
 PGP Key
 
-`Key fingerprint = F535 AEEC C57B C4EE FE62  6871 B19C D619 61B5 B9DA`
+`Key fingerprint = 91C0 A351 7230 473D 4112  7CB8 7D66 7FCC CD3F EF39`
 
 The recommended way to get this key is:
 
-`gpg --keyserver hkps://keys.openpgp.org --receive-keys B19CD61961B5B9DA`
+`gpg --keyserver hkps://keys.openpgp.org --receive-keys 7D667FCCCD3FEF39`
 
-It is also available for [download](/assets/steven.malins.asc).
+It is also available for [download](/assets/steven.malins.gpg).
 
 ## History
 
-The key contains a separate encryption subkey. The encryption subkey
-is rotated every 90days. The current encryption subkey is
+The key was generated and then placed onto a smart-card/YubiKey on 28
+April 2020. The subkeys expire on 01 May 2021; at which point a new
+key will be generated. 
 
-`9CCE56F23459CC04`
+This key supersedes the key `B19CD61961B5B9DA`
 
-and it expires 2020-07-01
-
-The key also contains the revoked encryption subkeys. Each subkey has
-been revoked **proactively** to create some measure of forward
-security. The fact that the subkeys cannot be deleted from the
-keyserver is *by design*; it provides an audit trail of changes to the
-key. If you are on a system that is starved for space (as in your
-counting kilobytes) you can safely delete the revoked subkeys from
-your copy; but be warned that if you refresh it from the keyserver you
-will get the subkeys back. Again, this is by design because signatures
-(revoking a subkey is just adding a revocation signature) cannot, and
-should not, be permanently removed from the keyserver.
+It is **NOT** planned to change the expiration date, but to generate a
+new key in May of 2021.
