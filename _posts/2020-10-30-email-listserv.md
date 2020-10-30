@@ -47,10 +47,12 @@ All legitimate discussion lists are **opt-in**.
 That means members affirmatively choose to be a part of the group discussion. 
 Discussion lists provide a number of advantages over similar methods. 
 The primary one is that everyone, or almost everyone, already has email. 
+
 Members can read and respond to messages using whatever software they currently use to read and write email messages. 
 They can also set up their email client, such as Mozilla Thunderbird, to filter, or sort, the messages from the list into specific folders. 
 That way they do not distract from the other email messages a user receives, but are in a convenient place when the user is ready to read messages from the list. 
-Most discussion list software will change the subject of the messages and add the list name to the subject, making it easy to filter the messages. 
+Most discussion list software will change the subject of the messages and add the list name to the subject, making it easy to filter the messages.
+
 For example, a list about canine feeding habits might add the string '[dogfood]' to the subject of all messages from/to the list. 
 Most software also modifies the header of the messages. 
 Headers are usually hidden from the user by most email software. 
