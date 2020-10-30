@@ -4,7 +4,7 @@ date: 2020-10-30
 author: "Steven Malins"
 ---
 
-<img src="img/email01.jpg" style="width:100%;" />
+<img src="/assets/img/email01.jpg" style="width:100%;" />
 
 In 1971 Ray Tomlinson invented email, or the story goes. 
 The rest, as they say, is history. Despite the proliferation of books of faces, immediate grams, your spaces and my space, and whatever twitter is, much of online communication still happens by email, even in the year of Beyonce two thousand and twenty. 
